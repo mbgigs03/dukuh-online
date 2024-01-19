@@ -57,7 +57,7 @@ DukuhOnline aims to assist residents of DUKUH Village in the online letter submi
    
 5. Click Link from bash:
    ```bash
-   example: https://localhost:3000
+   example: [https://localhost:3000](https://localhost:3000)
    ```
 
 ## Contribution

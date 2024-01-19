@@ -1,8 +1,79 @@
-# React + Vite
+# DukuhOnline - Online Letter Service Application for DUKUH Village
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the DukuhOnline repository, a project for an online letter service application for DUKUH Village. This application is developed using React and Vite technologies to streamline the process of submitting and managing letters online within the village.
 
-Currently, two official plugins are available:
+## Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+DukuhOnline aims to assist residents of DUKUH Village in the online letter submission process, thereby expediting and simplifying village administration. Some key features provided in this application include:
+
+- Online Letter Submission
+- Letter Submission Status
+- Letter Submission History
+- Status Notification for Letters
+
+## Features
+
+1. **Online Letter Submission**
+   - Accessible and user-friendly letter submission forms for residents.
+   - Data validation to ensure information completeness.
+
+2. **Letter Submission Status**
+   - Real-time tracking of letter submission status for residents.
+   - Automatic notifications via email or in-app messages.
+
+3. **Letter Submission History**
+   - Storage of letter submission history for reference and tracking.
+
+4. **Status Notification for Letters**
+   - Direct notifications to residents regarding changes in letter status.
+
+## Development Requirements
+
+- Node.js
+- npm or Yarn
+- Browser supporting React
+
+## How to Run the Project
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/username/DukuhOnline.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd DukuhOnline
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn
+   ```
+
+4. Run the application in development mode:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+   The application can be accessed at [http://localhost:3000](http://localhost:3000).
+
+## Contribution
+
+If you wish to contribute to the development of DukuhOnline, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b new-feature`.
+3. Make changes on that branch.
+4. Commit your changes: `git commit -m 'Adding a new feature'`.
+5. Push to the branch: `git push origin new-feature`.
+6. Submit a pull request.
+
+## License
+
+DukuhOnline is licensed under the [MIT License](LICENSE).
+
+Thank you for contributing!

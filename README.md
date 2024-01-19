@@ -37,7 +37,7 @@ DukuhOnline aims to assist residents of DUKUH Village in the online letter submi
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/username/DukuhOnline.git
+   git clone https://github.com/mbgigs03/dukuh-online.git
    ```
 
 2. Navigate to the project directory:

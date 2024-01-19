@@ -42,24 +42,23 @@ DukuhOnline aims to assist residents of DUKUH Village in the online letter submi
 
 2. Navigate to the project directory:
    ```bash
-   cd DukuhOnline
+   cd dukuh-online
    ```
 
 3. Install dependencies:
    ```bash
    npm install
-   # or
-   yarn
    ```
 
 4. Run the application in development mode:
    ```bash
    npm run dev
-   # or
-   yarn dev
    ```
-
-   The application can be accessed at [http://localhost:3000](http://localhost:3000).
+   
+5. Click Link from bash:
+   ```bash
+   example: https://localhost:3000
+   ```
 
 ## Contribution
 
